@@ -2,11 +2,14 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-image: url('https://images.unsplash.com/photo-1516741972020-3c1c1c1c1c1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDF8fG1pbHl8ZW58MHx8fHwxNjg0MjY1NjY0&ixlib=rb-4.0.3&q=80&w=1080');
+    background-size: cover; /* Copre l'intera area */
+    background-position: center; /* Centra l'immagine */
+    color: #ffffff; /* Cambia il colore del testo per una migliore leggibilità */
 }
 
 header {
-    background: #35424a;
+    background: rgba(53, 66, 74, 0.8); /* Sfondo semi-trasparente per l'intestazione */
     color: #ffffff;
     padding: 10px 0;
     text-align: center;
@@ -34,7 +37,7 @@ main {
 footer {
     text-align: center;
     padding: 10px 0;
-    background: #35424a;
+    background: rgba(53, 66, 74, 0.8); /* Sfondo semi-trasparente per il piè di pagina */
     color: #ffffff;
     position: relative;
     bottom: 0;
