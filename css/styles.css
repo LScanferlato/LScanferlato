@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-image: url('https://images.unsplash.com/photo-1516741972020-3c1c1c1c1c1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDF8fG1pbHl8ZW58MHx8fHwxNjg0MjY1NjY0&ixlib=rb-4.0.3&q=80&w=1080');
+    background-image: url('https://images.unsplash.com/photo-1505506874110-6a7a69069a08?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
     background-size: cover; /* Copre l'intera area */
     background-position: center; /* Centra l'immagine */
     color: #ffffff; /* Cambia il colore del testo per una migliore leggibilità */
